@@ -51,13 +51,6 @@ Given a folder that contains one original `.atlas`, one referenced `.png`, and o
 - The tool does not rewrite `.import` files.
 - In Godot, reimport the regenerated `.png` and `.atlas` after running the tool.
 
-## Repository Layout
-
-```text
-scripts/
-  Convert-SpineFolderToStraightAlpha.ps1
-```
-
 ---
 
 ## 中文说明
